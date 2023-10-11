@@ -1,0 +1,24 @@
+0000:	Success.
+0004:	Success and version upgrade message.
+0005:	Please sign in.
+0006:	Your session is expired. Please sign in again.
+0007:	No data found.
+0008:	Please check old pin.
+0009:	OTP Expired.
+0010:	Invalid OTP.
+0011:	Invalid Format.
+0012:	Invalid FCM.
+0013:	Invalid Request.
+0015:	Invalid Session.
+0016:	Invalid Token.
+0017:	Invalid user or user not found.
+0018:	Invalid mobile number or PIN.
+0019:	Version Upgrade.
+0021:	Insufficient Balance.
+0022: 	Your account have been lock. Please contact to administrator.
+0023: 	First Time Sign In.
+0024:	Balance is over maximum daily transaction Limit.
+0025:	Balance is over maximum monthly transaction Limit.
+0026:	Balance is over maximum balance of reciever.
+0027:	Already Sign in.
+0030:	Other Exceptions.

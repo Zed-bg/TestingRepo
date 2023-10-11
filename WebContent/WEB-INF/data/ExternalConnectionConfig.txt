@@ -1,0 +1,13 @@
+SESSIONTIME_500
+OTPSESSIONTIME_1
+FCWSSource_EXTSYS
+IMAGEURL_http://localhost:8082/AppService//image//
+SMSPwd_Dear Customer,Your new password :  <msg>
+ADMSESSIONTIME_0
+ExcelImageName_mit.png
+BatchProdCode1_CMAC
+BatchProdCode2_CMAC
+BatchProdCode3_CMB1
+BatchFCWSMakerID_CMSBRANCH
+BatchFCWSCheckerid_CMSBRNAU
+MobileMakerID_010
